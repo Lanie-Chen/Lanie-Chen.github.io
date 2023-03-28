@@ -10,11 +10,11 @@ comments: true
 
 
     
-## • Data Collection  
+**• Data Collection**
   
-## • Data Cleaning  
+**• Data Cleaning**  
   
-## • Explanatory Data Analsysis  
+**• Explanatory Data Analsysis**  
    
 • Model Selection
   
