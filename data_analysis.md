@@ -16,10 +16,7 @@ subtitle: Projects
   better understand the factors driving these differences.  
 • Attempted to predict state health insurance coverage rate on a contemporary level, demonstrating a commitment to using data-driven insights to inform 
   policy decisions and improve healthcare outcomes. Results showed that while large variations exist in health insurance structure, they do not have a 
-  significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.  
-  
-### Tags
-
+  significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.   
 {: .box-note}
 **Tags:** unsupervised learning
    
@@ -33,15 +30,15 @@ R Studio | Stata
   predict future purchase rates.  
 • Designed and executed **A/B testng** to evaluate adverKsing strategies and opKmize criKcal metrics for increased customer engagement and conversion 
   rates.  
-  
-Tags: [unsupervised learning]
+{: .box-note}
+**Tags:** machine learning, A/B testng
 
 
 
 
 
 
-
+    
 
 
 
