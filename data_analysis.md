@@ -4,9 +4,9 @@ title: Data Analysis
 subtitle: Projects
 ---
 
-## Health Insurance
-**Health Insurance**
+## Health Insurance  
 *Sept 2022 - Dec 2022*  
+  
 • Data Collection  
 • Data Cleaning
   
