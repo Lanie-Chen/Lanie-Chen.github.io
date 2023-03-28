@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Numbers are my game, coffee is my fuel
 ---
 
 My name is Inigo Montoya. I have the following qualities:
+Hello World !  
+   
+My name is Wanlin Chen, a.k.a. the Queen of Caffeine, Hiker Extraordinaire, and Gym Rat.  
+   
+Armed with a Master of Science in Spatial Economics and Data Analysis from the University of Southern California, I’m ready to conquer the world, one cup of coffee at a time !   
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+When I’m not crunching numbers or crunching abs, you can find me hitting the trails and soaking up the California sun. So grab a cup of coffee, lace up your hiking boots, and let’s explore the world of data together !
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
