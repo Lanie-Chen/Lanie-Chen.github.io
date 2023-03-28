@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Analysis
-subtitle: Projects
+title: Data Analysis Projects
+subtitle: Wanlin Chen
 ---
 
 
