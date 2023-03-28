@@ -14,11 +14,10 @@ Armed with a Master of Science in Spatial Economics and Data Analysis from the U
 When I’m not crunching numbers or crunching abs, you can find me hitting the trails and soaking up the California sun. So grab a cup of coffee, lace up your hiking boots, and let’s explore the world of data together !
 
 
-Hello World !  
+Here is the code: 
 ```python
 about_me = {}
 Me = {'Name': 'Wanlin Chen',
-       'Education': 'Bachelor of Science in Mathematics and Statistics, University of Toronto',
        'Graduate School': 'University of Southern California',
        'Undergraduate School': 'Tianjin University of Technology',
        'Current Location': 'Los Angeles, CA',
