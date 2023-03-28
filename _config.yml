@@ -22,7 +22,7 @@ author: Wanlin Chen
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Data Analysis: "https://beautifuljekyll.com"
+    - Data Analysis: "/_posts/2020-02-26-flake-it-till-you-make-it.md"
     - Geospatial Analysis: "https://www.markdowntutorial.com/"
   Résumé: "https://deanattali.com"
 
