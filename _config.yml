@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Data Analysis: "data_analysis"
-    - Geospatial Analysis: "2020-02-26-flake-it-till-you-make-it"
+    - Geospatial Analysis: "geospatial_analysis"
   Résumé: "https://deanattali.com"
 
 ################
