@@ -22,8 +22,9 @@ subtitle: Projects
 **Tags:** Unsupervised lLearning
    
    
+**[Consumer Behavior Analysis]([https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)**    
+   
 {: .box-note}
-**Consumer Behavior Analysis**  
 *Feb 2019 - Jun 2019*  
 R Studio | Stata  
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and 
