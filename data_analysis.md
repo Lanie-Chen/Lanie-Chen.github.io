@@ -5,7 +5,7 @@ subtitle: Projects
 ---
                   
 ## [Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)  
-[take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/)
+[## Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)
 
 
 *Sept 2022 - Dec 2022*  
