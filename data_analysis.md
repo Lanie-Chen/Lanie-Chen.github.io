@@ -4,10 +4,10 @@ title: Data Analysis
 subtitle: Projects
 ---
                   
-**[Clustering Analysis of Statewide Health Insurance Marketplaces]([https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)**  
+## [Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)  
 *Sept 2022 - Dec 2022*  
-*R Studio*    
-  
+*R Studio*   
+{: .box-note}
 • Conducted data cleaning on a 2019 plan-level health insurance dataset from the United States using **Stata**, ensuring that the data was accurate and 
   ready for analysis.  
 • Explored the dataset to analyze geographic variations in health insurance marketplaces and identify patterns and trends using statistical methods.  
@@ -18,11 +18,11 @@ subtitle: Projects
 • Attempted to predict state health insurance coverage rate on a contemporary level, demonstrating a commitment to using data-driven insights to inform 
   policy decisions and improve healthcare outcomes. Results showed that while large variations exist in health insurance structure, they do not have a 
   significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.   
-{: .box-warning}
+{: .box-note}
 **Tags:** Unsupervised lLearning
    
    
-**[Consumer Behavior Analysis]([https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)**    
+**[Consumer Behavior Analysis](https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)**    
    
 {: .box-note}
 *Feb 2019 - Jun 2019*  
@@ -33,7 +33,6 @@ R Studio | Stata
   predict future purchase rates.  
 • Designed and executed **A/B testng** to evaluate adverKsing strategies and opKmize criKcal metrics for increased customer engagement and conversion 
   rates.  
-    
 {: .box-note}
 **Tags:** machine learning, A/B testng
 
