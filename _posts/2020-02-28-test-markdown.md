@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ongoing project: Whole Foods Markets Site Selection
+title: Ongoing project -- Whole Foods Markets Site Selection
 subtitle: Ongoing project
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
