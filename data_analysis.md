@@ -25,7 +25,7 @@ subtitle: Wanlin Chen
 **Tags:** Unsupervised Learning
     
     
-**[Consumer Behavior Analysis](https://markdowntutorial.com/](https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git)**  
+**[Consumer Behavior Analysis](https://markdowntutorial.com/)** 
    
 {: .box-note}
 *Feb 2019 - Jun 2019*  
