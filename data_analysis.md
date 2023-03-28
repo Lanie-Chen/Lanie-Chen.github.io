@@ -7,8 +7,7 @@ subtitle: Wanlin Chen
 
 **[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**     
 *Sept 2022 - Dec 2022*  
-*R Studio*  
-   
+*R Studio*    
 {: .box-note}
 • Conducted data cleaning on a 2019 plan-level health insurance dataset from the United States using **Stata**, ensuring that the data was accurate and 
   ready for analysis.  
@@ -19,24 +18,21 @@ subtitle: Wanlin Chen
   better understand the factors driving these differences.  
 • Attempted to predict state health insurance coverage rate on a contemporary level, demonstrating a commitment to using data-driven insights to inform 
   policy decisions and improve healthcare outcomes. Results showed that while large variations exist in health insurance structure, they do not have a 
-  significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.   
-    
+  significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.    
 {: .box-note}
 **Tags:** Unsupervised Learning
     
     
-**[Consumer Behavior Analysis](https://markdowntutorial.com/)** 
-   
-{: .box-note}
+**[Consumer Behavior Analysis](https://markdowntutorial.com/)**   
 *Feb 2019 - Jun 2019*  
-R Studio | Stata  
+R Studio | Stata   
+{: .box-note}
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and 
   feature request analysis.  
 • Utilized advanced staKsKcal models including **exponenKal smoothing**, **ARIMA**, and **principal component analysis** to analyze consumer trends and 
   predict future purchase rates.  
 • Designed and executed **A/B testng** to evaluate adverKsing strategies and opKmize criKcal metrics for increased customer engagement and conversion 
-  rates.  
-    
+  rates.      
 {: .box-note}
 **Tags:** machine learning, A/B testng
 
