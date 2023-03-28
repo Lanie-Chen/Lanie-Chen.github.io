@@ -6,7 +6,7 @@ subtitle: Wanlin Chen
 
 
 **[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**     
-*Sept 2022 - Dec 2022*   
+*Aug 2022 - Dec 2022*
    
 {: .box-note}
 - Conducted data cleaning and exploration on a 2019 plan-level health insurance dataset from the United States, ensuring that the data was accurate and ready for analysis.  
@@ -21,12 +21,11 @@ subtitle: Wanlin Chen
     
 **[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
 *Feb 2019 - Jun 2019*
-  
+   
 {: .box-note}
 - Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and feature request analysis.  
 - Utilized advanced staKsKcal models including **exponential smoothing**, **ARIMA**, and **principal component analysis** to analyze consumer trends and predict future purchase rates.  
 - Designed and executed **A/B testng** to evaluate adverKsing strategies and opKmize criKcal metrics for increased customer engagement and conversion rates.      
-    
 {: .box-note}
 **Tags:** R Studio, Machine Learning, A/B Testng
 
