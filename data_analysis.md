@@ -3,8 +3,7 @@ layout: page
 title: Data Analysis
 subtitle: Projects
 ---
-      
-             
+                  
  **Clustering Analysis of Statewide Health Insurance Marketplaces**  
  *Sept 2022 - Dec 2022*  
  R Studio  
@@ -19,18 +18,21 @@ subtitle: Projects
   policy decisions and improve healthcare outcomes. Results showed that while large variations exist in health insurance structure, they do not have a 
   significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.  
   
-Tags: [unsupervised learning]
+### Tags
+
+{: .box-note}
+**Tags:** unsupervised learning
    
    
 **Consumer Behavior Analysis**  
 *Feb 2019 - Jun 2019*  
-R Studio | Stata 
+R Studio | Stata  
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and 
-  feature request analysis.
-• UKlized advanced staKsKcal models including **exponenKal smoothing**, **ARIMA**, and **principal component analysis** to analyze consumer trends and 
-  predict future purchase rates.
+  feature request analysis.  
+• Utilized advanced staKsKcal models including **exponenKal smoothing**, **ARIMA**, and **principal component analysis** to analyze consumer trends and 
+  predict future purchase rates.  
 • Designed and executed **A/B testng** to evaluate adverKsing strategies and opKmize criKcal metrics for increased customer engagement and conversion 
-  rates.
+  rates.  
   
 Tags: [unsupervised learning]
 
