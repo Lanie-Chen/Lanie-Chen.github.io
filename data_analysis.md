@@ -4,9 +4,9 @@ title: Data Analysis
 subtitle: Projects
 ---
                   
- **[Clustering Analysis of Statewide Health Insurance Marketplaces]([https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git))  
- *Sept 2022 - Dec 2022*  
- R Studio  
+**[Clustering Analysis of Statewide Health Insurance Marketplaces]([https://markdowntutorial.com/](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces.git))**
+*Sept 2022 - Dec 2022*  
+R Studio  
 • Conducted data cleaning on a 2019 plan-level health insurance dataset from the United States using **Stata**, ensuring that the data was accurate and 
   ready for analysis.  
 • Explored the dataset to analyze geographic variations in health insurance marketplaces and identify patterns and trends using statistical methods.  
@@ -20,7 +20,8 @@ subtitle: Projects
 {: .box-note}
 **Tags:** unsupervised learning
    
-   
+
+{: .box-note}
 **Consumer Behavior Analysis**  
 *Feb 2019 - Jun 2019*  
 R Studio | Stata  
@@ -30,6 +31,7 @@ R Studio | Stata
   predict future purchase rates.  
 • Designed and executed **A/B testng** to evaluate adverKsing strategies and opKmize criKcal metrics for increased customer engagement and conversion 
   rates.  
+    
 {: .box-note}
 **Tags:** machine learning, A/B testng
 
