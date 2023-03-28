@@ -5,10 +5,10 @@ subtitle: Projects
 ---
 
 
-## [Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)
-  
+## [Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)    
 *Sept 2022 - Dec 2022*  
-*R Studio*   
+*R Studio*  
+   
 {: .box-note}
 • Conducted data cleaning on a 2019 plan-level health insurance dataset from the United States using **Stata**, ensuring that the data was accurate and 
   ready for analysis.  
