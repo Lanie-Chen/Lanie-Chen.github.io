@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ongoing project -- Whole Foods Markets Site Selection
-subtitle: Ongoing project
+title: Ongoing project
+subtitle: Whole Foods Markets Site Selection
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [data analysis]
