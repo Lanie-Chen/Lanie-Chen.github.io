@@ -5,9 +5,7 @@ subtitle: Projects
 ---
 
 
-
-## Health Insurance  
-*Sept 2022 - Dec 2022*  
+## Health Insurance  *Sept 2022 - Dec 2022*  
   
 • Data Collection  
 • Data Cleaning
