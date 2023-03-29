@@ -15,7 +15,8 @@ subtitle: Wanlin Chen
 • Found large differences in plan policies in the marketplaces between states, aligning with the initial hypothesis, and used data-driven insights to better understand the factors driving these differences.  
 • Attempted to predict state health insurance coverage rate on a contemporary level, and results showed that while large variations exist in health insurance structure, they do not have a significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.
 <br>
-<small style="text-align: right;">Aug 2022 - Dec 2022</small>   
+<br>
+<small style="text-align: left;">Aug 2022 - Dec 2022</small>   
    
    
 {: .box-note}
