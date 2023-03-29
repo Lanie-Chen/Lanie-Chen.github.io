@@ -24,7 +24,7 @@ navbar-links:
   Projects:
     - Data Analysis: "data_analysis"
     - Geospatial Analysis: "geospatial_analysis"
-  Résumé: "https://deanattali.com"
+  Résumé: "/Wanlin Chen Resume.pdf"
 
 ################
 # --- Logo --- #
