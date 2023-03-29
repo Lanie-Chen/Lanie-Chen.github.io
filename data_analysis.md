@@ -17,9 +17,8 @@ subtitle: Wanlin Chen
 <br>
 <br>
 <small>**Tags:** R Studio, Stata, Unsupervised Learning<small>
- 
-     
-     
+
+            
 {: .box-note}
 **[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
 *Feb 2019 - Jun 2019*
