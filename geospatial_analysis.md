@@ -19,7 +19,7 @@ subtitle: Wanlin Chen
     
     
   
-{: .box-note}   
+{: .box-note}
 **[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
 <small>*Feb 2019 - Jun 2019*<small>  
 <br>
