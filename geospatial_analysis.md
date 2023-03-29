@@ -6,7 +6,7 @@ subtitle: Wanlin Chen
   
 {: .box-note}
 **[The Effect of COVID-19 on Housing Prices in New York City](https://storymaps.arcgis.com/stories/8ae61f1122aa46c1b210ec9923f5656b)**
-<small>*Oct 2022 - Dec 2022*<small>
+*Oct 2022 - Dec 2022*
 <br>
 <br>
 • Conducted an in-depth analysis of housing prices in New York City by utilizing data from 19,686 house points in 2020.  
@@ -20,13 +20,16 @@ subtitle: Wanlin Chen
     
   
 {: .box-note}
-**[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
-*Feb 2019 - Jun 2019*
+**[Assess Accessibility to Pediatric Healthcare Services of San Francisco County](https://markdowntutorial.com/)**    
+*Feb 2021 - Apr 2021*
 <br>
 <br>
-• Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and feature request analysis.  
-• Utilized advanced staKsKcal models including **exponential smoothing**, **ARIMA**, and **principal component analysis** to analyze consumer trends and predict future purchase rates.  
-• Designed and executed **A/B testng** to evaluate advertising strategies and optimize critical metrics for increased customer engagement and conversion rates.
+• Applied the US Census dataset and Healthcare Facilities dataset to examine the current spatial accessibility of pediatricians in San Francisco.
+• Created a 15-minute driving catchment area and estimated the accessibility using the 2 step Floating Catchment Area method (2SFCA) for supply and demand area.
+• Stressed the importance of considering non-spatial factors and choosing a bigger catchment area to obtain more accurate results to address the Modifiable Areal Unit Problem (MAUP).
+• Concluded that this project aimed to assess spatial accessibility to pediatric services in San Francisco and that the results required careful interpretation due to the limitations of the study.
+• Indicated the uneven distribution of Pediatric healthcare services in San Francisco as a result of children population pattern, highlighting the need for better access to pediatric services in underserved areas.
+• Emphasized the importance of targeted healthcare policies and interventions to address healthcare disparities.
 <br>
 <br>
-<small>**Tags:** R Studio, Machine Learning, A/B Testing<small>
+<small>**Tags:** ArcGIS Pro, 2SFCA, MAUP<small>
