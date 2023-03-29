@@ -5,7 +5,7 @@ subtitle: Wanlin Chen
 ---
   
 {: .box-note}
-**[The Effect of COVID-19 on Housing Prices in New York City](https://storymaps.arcgis.com/stories/8ae61f1122aa46c1b210ec9923f5656b)**
+**[The Effect of COVID-19 on Housing Prices in New York City](https://storymaps.arcgis.com/stories/8ae61f1122aa46c1b210ec9923f5656b)**  
 *Oct 2022 - Dec 2022*
 <br>
 <br>
