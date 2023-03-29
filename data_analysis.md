@@ -25,6 +25,5 @@ subtitle: Wanlin Chen
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and feature request analysis.  
 • Utilized advanced staKsKcal models including **exponential smoothing**, **ARIMA**, and **principal component analysis** to analyze consumer trends and predict future purchase rates.  
 • Designed and executed **A/B testng** to evaluate advertising strategies and optimize critical metrics for increased customer engagement and conversion rates.
-<br>
 <p align="right"><small>Feb 2019 - Jue 2019</small></p>
 
