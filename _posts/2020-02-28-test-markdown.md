@@ -2,7 +2,7 @@
 layout: post
 title: Ongoing Project
 subtitle: Whole Foods Markets Site Selection
-Updated on: March 25, 2023
+last-updated: March 25, 2023
 tags: [Data Analysis Project]
 comments: true
 ---
