@@ -6,8 +6,7 @@ tags: [R Studio, Stata, Machine Learning, A/B Testing]
 ---
 
 {: .box-note}
-**[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**   
-*Aug 2022 - Dec 2022*
+**[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**
 <br>
 <br>
 • Conducted data cleaning and exploration on a 2019 plan-level health insurance dataset from the United States, ensuring that the data was accurate and ready for analysis.  
@@ -17,11 +16,11 @@ tags: [R Studio, Stata, Machine Learning, A/B Testing]
 • Attempted to predict state health insurance coverage rate on a contemporary level, and results showed that while large variations exist in health insurance structure, they do not have a significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.
 <br>
 <br>
-
+<small>*Aug 2022 - Dec 2022*</small>
             
 {: .box-note}
 **[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
-*Feb 2019 - Jun 2019*
+<small>*Feb 2019 - Jun 2019*</small>
 <br>
 <br>
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and feature request analysis.  
