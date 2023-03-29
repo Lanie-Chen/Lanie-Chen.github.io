@@ -6,8 +6,7 @@ subtitle: Wanlin Chen
 
 {: .box-note}
 **[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**   
-*Aug 2022 - Dec 2022*  
-       
+*Aug 2022 - Dec 2022*   
 • Conducted data cleaning and exploration on a 2019 plan-level health insurance dataset from the United States, ensuring that the data was accurate and ready for analysis.  
 • Explored the dataset to analyze geographic variations in health insurance marketplaces and identify patterns and trends using statistical methods.  
 • Conducted state-level **clustering analysis** and used **ggplot** to identify ideological variations in insurance plans, highlighting the importance of customized visualization tools in data analysis.  
