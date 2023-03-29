@@ -12,7 +12,7 @@ subtitle: Wanlin Chen
 • Conducted an in-depth analysis of housing prices in New York City by utilizing data from 19,686 house points in 2020.  
 • Utilized **exploratory data analysis** techniques to gain insights into the data, such as identifying trends, patterns, and outliers.  
 • Examined the impact of COVID-19-induced demographic composition (age and education), socioeconomic condition (income and employment) and parks closure policy on housing prices, informing policymakers, investors, and other stakeholders about the current state and future trends of the New York City housing market.  
-• Compared performances of four spatial models to select the most appropriate model for the analysis, and implemented **Spatial Lag Regimes Model (SLRM)** with location dummies to address spatial autocorrelation and heterogeneity in the data.
+• Compared performances of four spatial models to select the most appropriate model for the analysis, and implemented **Spatial Lag Regimes Model (SLRM)** with location dummies to address spatial autocorrelation and heterogeneity in the data.  
 • Created an interactive story map to visually display the findings to readers.
 <br>
 <br>
