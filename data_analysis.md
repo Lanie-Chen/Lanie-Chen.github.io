@@ -2,6 +2,7 @@
 layout: page
 title: Data Analysis Projects
 subtitle: Wanlin Chen
+tags: [R Studio, Stata, Machine Learning, A/B Testing]
 ---
 
 {: .box-note}
@@ -16,7 +17,6 @@ subtitle: Wanlin Chen
 • Attempted to predict state health insurance coverage rate on a contemporary level, and results showed that while large variations exist in health insurance structure, they do not have a significant effect on evidence-based care, underscoring the importance of data-driven decision making in healthcare policy.
 <br>
 <br>
-<small>**Tags:** R Studio, Stata, Unsupervised Learning<small>
 
             
 {: .box-note}
@@ -29,6 +29,5 @@ subtitle: Wanlin Chen
 • Designed and executed **A/B testng** to evaluate advertising strategies and optimize critical metrics for increased customer engagement and conversion rates.
 <br>
 <br>
-<small>**Tags:** R Studio, Machine Learning, A/B Testing<small>
 
 
