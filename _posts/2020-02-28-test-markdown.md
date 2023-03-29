@@ -18,20 +18,20 @@ It is widely known that Whole Foods Market typically chooses site locations in a
   
 {: .box-warning}
 • Data Collection
-  
+<br>
 • Data Cleaning
-  
+<br>
 • Explanatory Data Analsysis
-   
+    
    
  
 ### In Progress
 
 {: .box-error}
 • Model Selection
-   
+<br>
 • Machine Learning
-   
+<br>
 • Results
  
  
