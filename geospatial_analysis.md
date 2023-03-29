@@ -1,6 +1,6 @@
 ---
 layout: page
-    title: Geospatial Analysis Projects
+title: Geospatial Analysis Projects
 subtitle: Wanlin Chen
 ---
   
