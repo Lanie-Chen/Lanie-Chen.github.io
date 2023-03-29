@@ -21,7 +21,7 @@ subtitle: Wanlin Chen
   
 {: .box-note}
 **[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
-<small>*Feb 2019 - Jun 2019*<small>  
+<small>*Feb 2019 - Jun 2019*<small>
 <br>
 <br>    
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and feature request analysis.  
