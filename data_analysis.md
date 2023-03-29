@@ -5,7 +5,7 @@ subtitle: Wanlin Chen
 ---
 
 {: .box-note}
-**[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**    
+**[Clustering Analysis of Statewide Health Insurance Marketplaces](https://github.com/Lanie-Chen/Clustering-Analysis-of-Statewide-Health-Insurance-Marketplaces)**    
 <small>Key words: R Studio, Stata, Unsupervised Learning</small>
 <br>
 <br>
@@ -18,7 +18,7 @@ subtitle: Wanlin Chen
    
    
 {: .box-note}
-**[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
+**Consumer Behavior Analysisi**    
 <small>Key words: R Studio, Machine Learning, A/B Testing</small>
 <br>
 <br>
