@@ -22,14 +22,14 @@ subtitle: Wanlin Chen
   
 {: .box-note}
 **[Assess Accessibility to Pediatric Healthcare Services of San Francisco County](https://markdowntutorial.com/)**    
-*Feb 2021 - Apr 2021*
+*Feb 2022 - Apr 2022*
 <br>
 <br>
-• Applied the US Census dataset and Healthcare Facilities dataset to examine the current spatial accessibility of pediatricians in San Francisco.
-• Created a 15-minute driving catchment area and estimated the accessibility using **the 2 step Floating Catchment Area method (2SFCA)** for supply and demand area.
-• Stressed the importance of considering non-spatial factors and choosing a bigger catchment area to obtain more accurate results to address the **Modifiable Areal Unit Problem (MAUP)**.
-• Concluded that this project aimed to assess spatial accessibility to pediatric services in San Francisco and that the results required careful interpretation due to the limitations of the study.
-• Indicated the uneven distribution of Pediatric healthcare services in San Francisco as a result of children population pattern, highlighting the need for better access to pediatric services in underserved areas.
+• Applied the US Census dataset and Healthcare Facilities dataset to examine the current spatial accessibility of pediatricians in San Francisco.  
+• Created a 15-minute driving catchment area and estimated the accessibility using **the 2 step Floating Catchment Area method (2SFCA)** for supply and demand area.  
+• Stressed the importance of considering non-spatial factors and choosing a bigger catchment area to obtain more accurate results to address the **Modifiable Areal Unit Problem (MAUP)**.  
+• Concluded that this project aimed to assess spatial accessibility to pediatric services in San Francisco and that the results required careful interpretation due to the limitations of the study.  
+• Indicated the uneven distribution of Pediatric healthcare services in San Francisco as a result of children population pattern, highlighting the need for better access to pediatric services in underserved areas.  
 • Emphasized the importance of targeted healthcare policies and interventions to address healthcare disparities.
 <br>
 <br>
