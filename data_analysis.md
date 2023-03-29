@@ -6,7 +6,7 @@ subtitle: Wanlin Chen
 
 {: .box-note}
 **[Clustering Analysis of Statewide Health Insurance Marketplaces](https://markdowntutorial.com/)**   
-<small>*Aug 2022 - Dec 2022*<small>  
+*Aug 2022 - Dec 2022*
 <br>
 <br>
 • Conducted data cleaning and exploration on a 2019 plan-level health insurance dataset from the United States, ensuring that the data was accurate and ready for analysis.  
@@ -21,7 +21,7 @@ subtitle: Wanlin Chen
      
 {: .box-note}   
 **[Consumer Behavior Analysis](https://markdowntutorial.com/)**    
-<small>*Feb 2019 - Jun 2019*<small>
+*Feb 2019 - Jun 2019*
 <br>
 <br>     
 • Conducted market analysis and compared sustainable marketing strategies of L'Oreal and Shiseido through extensive research, customer interviews, and feature request analysis.  
