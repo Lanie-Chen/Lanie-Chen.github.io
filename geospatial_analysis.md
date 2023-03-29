@@ -15,7 +15,7 @@ subtitle: Wanlin Chen
 • Compared performances of four spatial models to select the most appropriate model for the analysis, and implemented Spatial Lag Regimes Model (SLRM) with location dummies to address spatial autocorrelation and heterogeneity in the data.
 <br>
 <br>
-<small>**Tags:** R Studio, ArcGis Pro, Exploratory Data Analysis, Spatial Lag Regimes Model</small>  
+<small>**Tags:** R Studio, ArcGIS Pro, Exploratory Data Analysis, Spatial Models</small>  
     
     
   
