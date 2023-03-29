@@ -26,7 +26,7 @@ subtitle: Wanlin Chen
 <br>
 <br>
 • Applied the US Census dataset and Healthcare Facilities dataset to examine the current spatial accessibility of pediatricians in San Francisco.  
-• Created 15-minute driving catchment areas centered at supply and demand areas, and estimated the accessibility using **the 2 step Floating Catchment Area method (2SFCA)** to identify the spatial accessibility ratio of pediatric services in San Francisco.
+• Created 15-minute driving catchment areas centered at supply and demand areas, and estimated the accessibility using **the 2 step Floating Catchment Area method (2SFCA)** to identify the spatial accessibility ratio of pediatric services in San Francisco.  
 • Stressed the importance of considering non-spatial factors and choosing a bigger catchment area to obtain more accurate results to address the **Modifiable Areal Unit Problem (MAUP)**.  
 • Indicated the uneven distribution of Pediatric healthcare services in San Francisco as a result of children population pattern, highlighting the need for better access to pediatric services in underserved areas.  
 • Emphasized the importance of targeted healthcare policies and interventions to address healthcare disparities.
