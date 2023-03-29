@@ -20,7 +20,7 @@ subtitle: Wanlin Chen
     
   
 {: .box-note}
-**[Assess Accessibility to Pediatric Healthcare Services of San Francisco County](https://markdowntutorial.com/)**    
+**[Assess Accessibility to Pediatric Healthcare Services of San Francisco County](https://github.com/Lanie-Chen/Assess-Accessibility-to-Pediatric-Healthcare-Services)**    
 <small>Key words: ArcGIS Pro, 2SFCA, MAUP</small>
 <br>
 <br>
