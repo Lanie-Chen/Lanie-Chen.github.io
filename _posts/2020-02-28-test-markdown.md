@@ -12,38 +12,27 @@ Whole Foods Market is a U.S. supermarket chain that positions itself as a premiu
 In this project, we aim to identify the indicators that are associated with the presence of Whole Foods Market stores in Los Angeles. We will apply the Poisson regression model with cross-sectional data examine the association between Whole Foods Market locations (number of Whole Foods Markets per zip code) and various indicators (e.g. housing price, household income, population, crime rate, employment, competitors, apartment rent, age, and race distribution).  
   
 It is widely known that Whole Foods Market typically chooses site locations in affluent neighborhoods or areas with a high concentration of health-conscious consumers. However, we believe that other factors may also play a role in the decision-making process. By analyzing a diverse set of neighborhood indicators, we aim to provide valuable insights into the characteristics of neighborhoods that are most conducive to the presence of Whole Foods Market stores.  
- 
-<center>**• Data Collection**<center>
   
-<center>**• Data Cleaning**<center>
-  
-<center>**• Explanatory Data Analsysis**<center>
-    
-<center>• Model Selection<center>
    
-<center>• Machine Learning<center>
-   
-<center>• Results<center>
-  
-  
- 
 ### Done   
+  
 {: .box-warning}
-<center>**• Data Collection**<center>
+• Data Collection
   
-<center>**• Data Cleaning**<center>
+• Data Cleaning
   
-<center>**• Explanatory Data Analsysis**<center>
+• Explanatory Data Analsysis
    
    
  
 ### In Progress
+
 {: .box-error}
-<center>• Model Selection<center>
+• Model Selection
    
-<center>• Machine Learning<center>
+• Machine Learning
    
-<center>• Results<center>
+• Results
  
  
  
